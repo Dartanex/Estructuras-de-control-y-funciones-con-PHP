@@ -41,6 +41,7 @@
             $i++;
         }
     }
-    //Puede cambiar el numero para generar mas o menos numeros en la serie de Fibonacci
-    generarFibonacci(10)
+    //Variable para hacer la serie con n terminos
+    $num = 10;
+    generarFibonacci($num)
 ?>
